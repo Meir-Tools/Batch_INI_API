@@ -1,0 +1,3 @@
+Hostname1=asd1
+Hostname2=asd2
+Hostname=Meir agever
